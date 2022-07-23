@@ -5,4 +5,8 @@ package com.mybatisplus.demo1;
  * @Data 2022/7/23 4:27 PM
  */
 public class demo1 {
+
+    public static void main(String[] args) {
+
+    }
 }
