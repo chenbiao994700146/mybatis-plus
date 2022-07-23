@@ -23,4 +23,7 @@ public class demo1 {
     public void test3(){
 
     }
+    public void test4(){
+
+    }
 }
