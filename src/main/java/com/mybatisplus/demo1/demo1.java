@@ -19,4 +19,8 @@ public class demo1 {
     public void  test2(){
         int s=1;
     }
+
+    public void test3(){
+
+    }
 }
