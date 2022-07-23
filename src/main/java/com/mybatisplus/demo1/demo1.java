@@ -11,8 +11,10 @@ public class demo1 {
     }
 
     public void test1(){
-        int i=2;
+        int i=3;
     }
+
+
 
     public void  test2(){
         int s=1;
