@@ -21,6 +21,9 @@ public class demo1 {
     }
 
 
+    public void test5(){
+
+    }
 
 
     public void  test2(){
