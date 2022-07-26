@@ -21,8 +21,20 @@ public class DataTest {
     private ProductService productService;
 
     @Test
-    void test1(){
-        System.out.println(userService.getById(3));
-        System.out.println(productService.getById(1));
+    public void test1(){
+//        System.out.println(userService.getById(3));
+//        System.out.println(productService.getById(1));
+        System.out.println(test2());
     }
+
+    public  String test2(){
+        String s="hello";
+
+        try {
+            return s;
+        }finally {
+            s="cb";
+        }
+    }
+
 }
