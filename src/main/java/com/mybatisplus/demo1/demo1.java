@@ -25,6 +25,10 @@ public class demo1 {
 
     }
 
+    public void test6(){
+
+    }
+
 
     public void  test2(){
         int s=1;
